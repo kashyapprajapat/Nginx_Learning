@@ -76,5 +76,5 @@ Both are excellent — it's just a matter of **what kind of journey** you're on.
 Go with **Nginx** for tradition and power.
 Go with **Caddy** for comfort and modern vibes.
 
-> 🌟 Happy Hosting! 🌐
->    *Happy Learning!*
+> 🌟 Happy Hosting!
+> 🌐 Happy Learning!
